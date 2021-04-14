@@ -26,7 +26,10 @@ jobs:
       - <<: *initWorkingDir
       - checkout
       - run:
-          name: Build latest CoreDNS Docker image
+          name: Generate Go modules
+          command: go generate
+      - run:
+          name: Build CoreDNS Docker image
           command: |
             cd ~/go/src/${CIRCLE_PROJECT_USERNAME}/coredns
             make coredns SYSTEM="GOOS=linux" && \
