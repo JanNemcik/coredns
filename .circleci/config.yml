@@ -30,6 +30,7 @@ jobs:
           command: |
             cd ~/go/src/${CIRCLE_PROJECT_USERNAME}/coredns
             go generate && \
+            go build && \
             make coredns SYSTEM="GOOS=linux" && \
             docker build -t $DOCKER_USER/coredns . && \
             echo "$DOCKER_PASS" | docker login --username $DOCKER_USER --password-stdin
