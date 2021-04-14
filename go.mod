@@ -8,6 +8,8 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.7
 	github.com/Azure/go-autorest/autorest/to v0.2.0 // indirect
 	github.com/DataDog/datadog-go v3.5.0+incompatible // indirect
+	github.com/JanNemcik/redis v0.0.6
+	github.com/JanNemcik/vpnrouting v0.0.5-0.20210412003437-a523bb692b93
 	github.com/aws/aws-sdk-go v1.38.16
 	github.com/coredns/caddy v1.1.0
 	github.com/dnstap/golang-dnstap v0.4.0
