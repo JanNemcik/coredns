@@ -9,7 +9,7 @@ require (
 	github.com/Azure/go-autorest/autorest/to v0.2.0 // indirect
 	github.com/DataDog/datadog-go v3.5.0+incompatible // indirect
 	github.com/JanNemcik/redis v0.0.6
-	github.com/JanNemcik/vpnrouting v0.0.5-0.20210504100733-fa4832b69e2f
+	github.com/JanNemcik/vpnrouting v0.0.5-0.20210507121153-b12077642708
 	github.com/aws/aws-sdk-go v1.38.16
 	github.com/coredns/caddy v1.1.0
 	github.com/dnstap/golang-dnstap v0.4.0
@@ -34,7 +34,7 @@ require (
 	go.uber.org/zap v1.16.0 // indirect
 	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
 	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4 // indirect
-	golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57
+	golang.org/x/sys v0.0.0-20210507014357-30e306a8bba5
 	google.golang.org/api v0.29.0
 	google.golang.org/grpc v1.37.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.28.0
