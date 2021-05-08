@@ -79,6 +79,8 @@ github.com/JanNemcik/vpnrouting v0.0.5-0.20210504100733-fa4832b69e2f h1:QFPAnYCY
 github.com/JanNemcik/vpnrouting v0.0.5-0.20210504100733-fa4832b69e2f/go.mod h1:NdK+unjabciB2/qOxqHaN/AD6Aeb16QmT8E16K5NJYE=
 github.com/JanNemcik/vpnrouting v0.0.5-0.20210507121153-b12077642708 h1:bRl8fyow6h8K0zKW+NcrnZEWgaoMj3AVxhfYJLOTTqE=
 github.com/JanNemcik/vpnrouting v0.0.5-0.20210507121153-b12077642708/go.mod h1:XlOnexq4zEryqh2fTMaL3CNyWieyrOOEIMycRnxk/KE=
+github.com/JanNemcik/vpnrouting v0.0.5-0.20210508201914-07eb39a4e127 h1:bUKR3/hlzRF9GtseobXVt012W3MwYpxxLTAJAlKz8/k=
+github.com/JanNemcik/vpnrouting v0.0.5-0.20210508201914-07eb39a4e127/go.mod h1:XlOnexq4zEryqh2fTMaL3CNyWieyrOOEIMycRnxk/KE=
 github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
 github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
 github.com/PuerkitoBio/purell v1.0.0/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
